@@ -1,8 +1,18 @@
 /* Mobile View */
 
+
+/* Color Schemes:
+
+#a7d6fb
+#ead9c2 */
+
 * {
     margin: 0;
     padding: 0;
+}
+
+nav {
+    background-color: #a7d6fb;
 }
 
 body {
@@ -19,6 +29,7 @@ header {
 
 .herosection {
     box-sizing: border-box;
+    background-color: #ead9c2;
 }
 
 .portfolioslides {
@@ -32,12 +43,16 @@ header {
 
 .aboutme {
     box-sizing: border-box;
-    max-width: 90%;
+    background-color: #a7d6fb;
 }
 
 .feedbackcards {
     max-width: 40rem;
     width: 80%;
+}
+
+.clientcolorcard {
+    background-color: #ead9c2;
 }
 
 .card-title {
@@ -46,4 +61,12 @@ header {
 
 .clientfeedback {
     font-size: 1.2em;
+}
+
+footer {
+    background-color: #a7d6fb;
+}
+
+@media screen and (max-width: 1024px) {
+    
 }
