@@ -2,6 +2,19 @@
     max-width: 75%;
 }
 
+.card {
+    width: 50%;
+}
+
+.clientimg {
+    width: 50%;
+    height: auto;
+}
+
 .card-title {
     font-size: 1.5em;
+}
+
+.clientfeedback {
+    font-size: 1.2em;
 }
