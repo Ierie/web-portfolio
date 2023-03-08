@@ -1,13 +1,44 @@
-.services {
-    max-width: 75%;
+/* Mobile View */
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    width: 95%;
 }
 
 body {
     box-sizing: border-box;
 }
 
+header {
+    box-sizing: border-box;
+}
+
+.herosection {
+    box-sizing: border-box;
+    width: 90%;
+}
+
+.portfolioslides {
+    box-sizing: border-box;
+    width: 90%;
+}
+
+.services {
+    max-width: 75%;
+}
+
+.aboutme {
+    box-sizing: border-box;
+    max-width: 90%;
+}
+
 .feedbackcards {
     max-width: 40rem;
+    width: 80%;
 }
 
 .card-title {
