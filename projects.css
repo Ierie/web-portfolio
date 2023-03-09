@@ -28,6 +28,18 @@ header {
 }
 
 
+.portfolioofservices{
+    margin-top: 5rem;
+}
+
+.showcaseportfolio{
+    width: 100vw;
+}
+
+.portimg {
+    width: auto;
+}
+
 .footerbg {
     background-color: #a7d6fb;
 }
