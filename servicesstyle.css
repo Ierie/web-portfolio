@@ -202,12 +202,7 @@ header {
 /* Small Desktop View */
 
 @media screen and (max-width: 1024px) {
-
-    .aboutmegrid {
-        max-height: 15%;
-        size: 75%;
-    }
-
+    
     .wholeclientcard {
         width: 10rem;
     }
@@ -217,11 +212,6 @@ header {
 /* Wide Desktop View */
 
 @media screen and (max-width: 1600px) {
-
-    .aboutmegrid {
-        max-height: 15%;
-        size: 75%;
-    }
 
     .wholeclientcard {
         width: 10rem;
