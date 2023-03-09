@@ -1,0 +1,45 @@
+/* Mobile View */
+
+
+/* Color Schemes:
+
+#a7d6fb
+#ead9c2 */
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    background-color: #a7d6fb;
+}
+
+body {
+    box-sizing: border-box;
+}
+
+header {
+    box-sizing: border-box;
+}
+
+.socmedbar {
+    list-style: none;
+}
+
+
+.footerbg {
+    background-color: #a7d6fb;
+}
+
+/* Small Desktop View */
+
+@media screen and (max-width: 1024px) {
+
+}
+
+/* Wide Desktop View */
+
+@media screen and (max-width: 1600px) {
+
+}
