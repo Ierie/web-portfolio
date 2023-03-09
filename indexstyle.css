@@ -41,7 +41,7 @@ header {
     max-width: 75%;
 }
 
-.aboutme {
+.aboutmegrid {
     box-sizing: border-box;
     background-color: #a7d6fb;
 }
@@ -53,6 +53,10 @@ header {
 
 .clientcolorcard {
     background-color: #ead9c2;
+}
+
+.wholeclientcard {
+    width: 20rem;
 }
 
 .card-title {
@@ -67,6 +71,31 @@ footer {
     background-color: #a7d6fb;
 }
 
+/* Small Desktop View */
+
 @media screen and (max-width: 1024px) {
-    
+
+    .serviceoffer {
+        text-transform: uppercase;
+        font-size: 1.5em;
+    }
+
+    .aboutmegrid {
+        max-height: 15%;
+    }
+
+    .wholeclientcard {
+        width: 10rem;
+    }
+
+}
+
+/* Wide Desktop View */
+
+@media screen and (max-width: 1600px) {
+
+    .serviceoffer {
+        text-transform: uppercase;
+        font-size: 1.5em;
+    }
 }
