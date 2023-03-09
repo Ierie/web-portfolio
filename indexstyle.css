@@ -82,6 +82,7 @@ footer {
 
     .aboutmegrid {
         max-height: 15%;
+        size: 75%;
     }
 
     .wholeclientcard {
@@ -97,5 +98,14 @@ footer {
     .serviceoffer {
         text-transform: uppercase;
         font-size: 1.5em;
+    }
+
+    .aboutmegrid {
+        max-height: 15%;
+        size: 75%;
+    }
+
+    .wholeclientcard {
+        width: 10rem;
     }
 }
