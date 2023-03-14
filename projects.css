@@ -34,11 +34,11 @@ header {
 }
 
 .showcaseportfolio{
-    width: 100vw;
+    width: auto;
 }
 
-.portimg {
-    width: auto;
+.portimg{
+    width: 100%;
 }
 
 .footerbg {
@@ -49,10 +49,17 @@ header {
 
 @media screen and (max-width: 1024px) {
 
+    .portimg {
+        width: auto;
+    }
+
 }
 
 /* Wide Desktop View */
 
 @media screen and (max-width: 1600px) {
 
+    .portimg {
+        width: auto;
+    }
 }
