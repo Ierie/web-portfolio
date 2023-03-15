@@ -27,6 +27,20 @@ header {
     list-style: none;
 }
 
+.ctabanner{
+    background-color: black;
+    height: 50vh;
+}
+
+.cta{
+    color: white;
+    margin-top: 13vh;
+}
+
+.cta2{
+    color: white;
+}
+
 .footerbg {
     background-color: #a7d6fb;
 }
@@ -34,7 +48,11 @@ header {
 /* Small Desktop View */
 
 @media screen and (max-width: 1024px) {
-
+    
+    .cta{
+        color: white;
+        margin-top: 13vh;
+    }
 
 }
 
