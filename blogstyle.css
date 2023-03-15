@@ -27,6 +27,10 @@ header {
     list-style: none;
 }
 
+.blogbanner {
+    background-color: #ead9c2;
+}
+
 .bd-placeholder-img-lg {
     font-size: 3.5rem;
     text-anchor: middle;
