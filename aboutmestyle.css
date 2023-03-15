@@ -45,6 +45,14 @@ header {
     background-color: #a7d6fb;
 }
 
+/* Tablet View */
+
+/* @media screen and (max-width: 768px ) {
+    .mydescription{
+        margin-left: 1em;
+    }
+} */
+
 /* Small Desktop View */
 
 @media screen and (max-width: 1024px) {
