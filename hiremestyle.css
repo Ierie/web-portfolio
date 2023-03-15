@@ -27,6 +27,24 @@ header {
     list-style: none;
 }
 
+.herosection {
+    box-sizing: border-box;
+    background-color: #ead9c2;
+}
+
+.announcements {
+    background-color: black;
+    height: 50vh;
+}
+
+.cta{
+    color: white;
+    margin-top: 13vh;
+}
+
+.cta2{
+    color: white;
+}
 
 .footerbg {
     background-color: #a7d6fb;
